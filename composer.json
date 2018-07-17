@@ -4,7 +4,7 @@
     "require": {
         "php": "7.2.0",
         "guzzlehttp/guzzle": "~6.3",
-        "tracy/tracy": "^2.4",
+        "tracy/tracy": "^3.0",
         "nette/di": "^3.0",
         "latte/latte": "^3.0",
         "namshi/cuzzle": "^2.0"
