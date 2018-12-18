@@ -2,7 +2,7 @@
     "name": "matyx/guzzlette",
     "description": "guzzlehttp/guzzle integration to nette",
     "require": {
-        "php": "7.2.0",
+        "php": ">=7.2.0",
         "guzzlehttp/guzzle": "~6.3",
         "tracy/tracy": "^2.5",
         "nette/di": "^3.0",
